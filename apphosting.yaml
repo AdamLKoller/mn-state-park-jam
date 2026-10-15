@@ -1,0 +1,39 @@
+# Environment for Firebase App Hosting. Values are public Firebase web config.
+# SEED_SECRET is read from Secret Manager (firebase apphosting:secrets:set SEED_SECRET).
+env:
+  - variable: NEXT_PUBLIC_FIREBASE_API_KEY
+    value: "AIzaSyBjsTrCJFrwk8X3bUcT8pq8KUhC5-ivdo8"
+    availability:
+      - BUILD
+      - RUNTIME
+  - variable: NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN
+    value: "code-jam-mn-state-park.firebaseapp.com"
+    availability:
+      - BUILD
+      - RUNTIME
+  - variable: NEXT_PUBLIC_FIREBASE_PROJECT_ID
+    value: "code-jam-mn-state-park"
+    availability:
+      - BUILD
+      - RUNTIME
+  - variable: NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET
+    value: "code-jam-mn-state-park.firebasestorage.app"
+    availability:
+      - BUILD
+      - RUNTIME
+  - variable: NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID
+    value: "724641846601"
+    availability:
+      - BUILD
+      - RUNTIME
+  - variable: NEXT_PUBLIC_FIREBASE_APP_ID
+    value: "1:724641846601:web:ca6838b9f3a190894b3698"
+    availability:
+      - BUILD
+      - RUNTIME
+  - variable: FIREBASE_PROJECT_ID
+    value: "code-jam-mn-state-park"
+    availability:
+      - RUNTIME
+  - variable: SEED_SECRET
+    secret: SEED_SECRET

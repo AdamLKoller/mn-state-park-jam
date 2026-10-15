@@ -1,0 +1,2370 @@
+[
+  {
+    "id": "afton-state-park",
+    "name": "Afton State Park",
+    "parkType": "State Park",
+    "counties": [
+      "Washington"
+    ],
+    "region": "Metro",
+    "lat": 44.8656,
+    "lon": -92.77742,
+    "unitCount": 34,
+    "campgroundCount": 3,
+    "unitTypes": [
+      {
+        "name": "Campsite",
+        "count": 32
+      },
+      {
+        "name": "Group Area - Basic-A",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "id": "banning-state-park",
+    "name": "Banning State Park",
+    "parkType": "State Park",
+    "counties": [
+      "Pine"
+    ],
+    "region": "Northeast",
+    "lat": 46.15672,
+    "lon": -92.85519,
+    "unitCount": 34,
+    "campgroundCount": 1,
+    "unitTypes": [
+      {
+        "name": "Campsite",
+        "count": 34
+      }
+    ]
+  },
+  {
+    "id": "bear-head-lake-state-park",
+    "name": "Bear Head Lake State Park",
+    "parkType": "State Park",
+    "counties": [
+      "St. Louis"
+    ],
+    "region": "Northeast",
+    "lat": 47.79116,
+    "lon": -92.08459,
+    "unitCount": 80,
+    "campgroundCount": 1,
+    "unitTypes": [
+      {
+        "name": "Campsite",
+        "count": 79
+      },
+      {
+        "name": "Group Area - Basic-A",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "beaver-creek-valley-state-park",
+    "name": "Beaver Creek Valley State Park",
+    "parkType": "State Park",
+    "counties": [
+      "Houston"
+    ],
+    "region": "Southern",
+    "lat": 43.63952,
+    "lon": -91.57647,
+    "unitCount": 48,
+    "campgroundCount": 1,
+    "unitTypes": [
+      {
+        "name": "Campsite",
+        "count": 48
+      }
+    ]
+  },
+  {
+    "id": "beltrami-island-state-forest",
+    "name": "Beltrami Island State Forest",
+    "parkType": "State Forest",
+    "counties": [
+      "Lake of the Woods"
+    ],
+    "region": "Minnesota",
+    "lat": 48.59028,
+    "lon": -94.95184,
+    "unitCount": 6,
+    "campgroundCount": 1,
+    "unitTypes": [
+      {
+        "name": "Campsite",
+        "count": 6
+      }
+    ]
+  },
+  {
+    "id": "big-bog-state-recreation-area",
+    "name": "Big Bog State Recreation Area",
+    "parkType": "State Recreation Area",
+    "counties": [
+      "Beltrami"
+    ],
+    "region": "Northwest",
+    "lat": 48.17343,
+    "lon": -94.51163,
+    "unitCount": 31,
+    "campgroundCount": 1,
+    "unitTypes": [
+      {
+        "name": "Campsite",
+        "count": 31
+      }
+    ]
+  },
+  {
+    "id": "big-fork-river-state-water-trail",
+    "name": "Big Fork River State Water Trail",
+    "parkType": "State Water Trail",
+    "counties": [
+      "Itasca",
+      "Koochiching"
+    ],
+    "region": "Northeast",
+    "lat": 47.98007,
+    "lon": -93.75662,
+    "unitCount": 12,
+    "campgroundCount": 0,
+    "unitTypes": [
+      {
+        "name": "Campsite",
+        "count": 12
+      }
+    ]
+  },
+  {
+    "id": "big-stone-lake-state-park",
+    "name": "Big Stone Lake State Park",
+    "parkType": "State Park",
+    "counties": [
+      "Big Stone"
+    ],
+    "region": "Southern",
+    "lat": 45.38657,
+    "lon": -96.53752,
+    "unitCount": 34,
+    "campgroundCount": 1,
+    "unitTypes": [
+      {
+        "name": "Campsite",
+        "count": 34
+      }
+    ]
+  },
+  {
+    "id": "birch-lakes-state-forest",
+    "name": "Birch Lakes State Forest",
+    "parkType": "State Forest",
+    "counties": [
+      "Stearns"
+    ],
+    "region": "Minnesota",
+    "lat": 45.77224,
+    "lon": -94.77168,
+    "unitCount": 31,
+    "campgroundCount": 1,
+    "unitTypes": [
+      {
+        "name": "Campsite",
+        "count": 30
+      },
+      {
+        "name": "Group Camp",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "blue-mounds-state-park",
+    "name": "Blue Mounds State Park",
+    "parkType": "State Park",
+    "counties": [
+      "Rock"
+    ],
+    "region": "Southern",
+    "lat": 43.72024,
+    "lon": -96.19138,
+    "unitCount": 89,
+    "campgroundCount": 1,
+    "unitTypes": [
+      {
+        "name": "Campsite",
+        "count": 85
+      },
+      {
+        "name": "Tipi",
+        "count": 3
+      },
+      {
+        "name": "Group Area - Basic-A",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "bowstring-state-forest",
+    "name": "Bowstring State Forest",
+    "parkType": "State Forest",
+    "counties": [
+      "Itasca"
+    ],
+    "region": "Minnesota",
+    "lat": 47.39482,
+    "lon": -93.67308,
+    "unitCount": 21,
+    "campgroundCount": 2,
+    "unitTypes": [
+      {
+        "name": "Campsite",
+        "count": 21
+      }
+    ]
+  },
+  {
+    "id": "buffalo-river-state-park",
+    "name": "Buffalo River State Park",
+    "parkType": "State Park",
+    "counties": [
+      "Clay"
+    ],
+    "region": "Northwest",
+    "lat": 46.86463,
+    "lon": -96.4709,
+    "unitCount": 45,
+    "campgroundCount": 1,
+    "unitTypes": [
+      {
+        "name": "Campsite",
+        "count": 44
+      },
+      {
+        "name": "Group Area - Basic-A",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "camden-state-park",
+    "name": "Camden State Park",
+    "parkType": "State Park",
+    "counties": [
+      "Lyon"
+    ],
+    "region": "Southern",
+    "lat": 44.34684,
+    "lon": -95.92417,
+    "unitCount": 89,
+    "campgroundCount": 3,
+    "unitTypes": [
+      {
+        "name": "Campsite",
+        "count": 88
+      },
+      {
+        "name": "Group Area - Basic-A",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "cannon-river-state-water-trail",
+    "name": "Cannon River State Water Trail",
+    "parkType": "State Water Trail",
+    "counties": [
+      "Rice"
+    ],
+    "region": "Southern",
+    "lat": 44.36852,
+    "lon": -93.2281,
+    "unitCount": 5,
+    "campgroundCount": 0,
+    "unitTypes": [
+      {
+        "name": "Campsite",
+        "count": 5
+      }
+    ]
+  },
+  {
+    "id": "carley-state-park",
+    "name": "Carley State Park",
+    "parkType": "State Park",
+    "counties": [
+      "Wabasha"
+    ],
+    "region": "Southern",
+    "lat": 44.11804,
+    "lon": -92.17586,
+    "unitCount": 22,
+    "campgroundCount": 1,
+    "unitTypes": [
+      {
+        "name": "Campsite",
+        "count": 20
+      },
+      {
+        "name": "Group Area - Basic-A",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "id": "cascade-river-state-park",
+    "name": "Cascade River State Park",
+    "parkType": "State Park",
+    "counties": [
+      "Cook"
+    ],
+    "region": "Northeast",
+    "lat": 47.70882,
+    "lon": -90.51998,
+    "unitCount": 47,
+    "campgroundCount": 1,
+    "unitTypes": [
+      {
+        "name": "Campsite",
+        "count": 45
+      },
+      {
+        "name": "Group Area - Basic-A",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "id": "charles-a-lindbergh-state-park",
+    "name": "Charles A. Lindbergh State Park",
+    "parkType": "State Park",
+    "counties": [
+      "Morrison"
+    ],
+    "region": "Central",
+    "lat": 45.96294,
+    "lon": -94.3929,
+    "unitCount": 41,
+    "campgroundCount": 1,
+    "unitTypes": [
+      {
+        "name": "Campsite",
+        "count": 40
+      },
+      {
+        "name": "Group Area - Basic-A",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "chengwatana-state-forest",
+    "name": "Chengwatana State Forest",
+    "parkType": "State Forest",
+    "counties": [
+      "Chisago",
+      "Pine"
+    ],
+    "region": "Minnesota",
+    "lat": 45.82259,
+    "lon": -92.77999,
+    "unitCount": 32,
+    "campgroundCount": 1,
+    "unitTypes": [
+      {
+        "name": "Campsite",
+        "count": 32
+      }
+    ]
+  },
+  {
+    "id": "chippewa-river-state-water-trail",
+    "name": "Chippewa River State Water Trail",
+    "parkType": "State Water Trail",
+    "counties": [
+      "Chippewa"
+    ],
+    "region": "Southern",
+    "lat": 44.95459,
+    "lon": -95.72711,
+    "unitCount": 1,
+    "campgroundCount": 0,
+    "unitTypes": [
+      {
+        "name": "Campsite",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "cloquet-river-state-water-trail",
+    "name": "Cloquet River State Water Trail",
+    "parkType": "State Water Trail",
+    "counties": [
+      "St. Louis"
+    ],
+    "region": "Northeast",
+    "lat": 47.03942,
+    "lon": -92.1993,
+    "unitCount": 25,
+    "campgroundCount": 0,
+    "unitTypes": [
+      {
+        "name": "Campsite",
+        "count": 25
+      }
+    ]
+  },
+  {
+    "id": "cloquet-valley-state-forest",
+    "name": "Cloquet Valley State Forest",
+    "parkType": "State Forest",
+    "counties": [
+      "St. Louis"
+    ],
+    "region": "Minnesota",
+    "lat": 47.2717,
+    "lon": -91.84788,
+    "unitCount": 26,
+    "campgroundCount": 1,
+    "unitTypes": [
+      {
+        "name": "Campsite",
+        "count": 26
+      }
+    ]
+  },
+  {
+    "id": "crow-river-north-fork-state-water-trail",
+    "name": "Crow River North Fork State Water Trail",
+    "parkType": "State Water Trail",
+    "counties": [
+      "Meeker",
+      "Wright"
+    ],
+    "region": "Minnesota",
+    "lat": 45.13337,
+    "lon": -94.07212,
+    "unitCount": 8,
+    "campgroundCount": 0,
+    "unitTypes": [
+      {
+        "name": "Campsite",
+        "count": 8
+      }
+    ]
+  },
+  {
+    "id": "crow-wing-river-state-water-trail",
+    "name": "Crow Wing River State Water Trail",
+    "parkType": "State Water Trail",
+    "counties": [
+      "Cass",
+      "Hubbard",
+      "Wadena"
+    ],
+    "region": "Central",
+    "lat": 46.51959,
+    "lon": -94.81381,
+    "unitCount": 16,
+    "campgroundCount": 0,
+    "unitTypes": [
+      {
+        "name": "Campsite",
+        "count": 16
+      }
+    ]
+  },
+  {
+    "id": "crow-wing-state-forest",
+    "name": "Crow Wing State Forest",
+    "parkType": "State Forest",
+    "counties": [
+      "Crow Wing"
+    ],
+    "region": "Minnesota",
+    "lat": 46.63241,
+    "lon": -94.04011,
+    "unitCount": 31,
+    "campgroundCount": 1,
+    "unitTypes": [
+      {
+        "name": "Campsite",
+        "count": 31
+      }
+    ]
+  },
+  {
+    "id": "crow-wing-state-park",
+    "name": "Crow Wing State Park",
+    "parkType": "State Park",
+    "counties": [
+      "Crow Wing"
+    ],
+    "region": "Central",
+    "lat": 46.28121,
+    "lon": -94.32896,
+    "unitCount": 60,
+    "campgroundCount": 1,
+    "unitTypes": [
+      {
+        "name": "Campsite",
+        "count": 59
+      },
+      {
+        "name": "Group Area - Basic-A",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "cuyuna-country-state-recreation-area",
+    "name": "Cuyuna Country State Recreation Area",
+    "parkType": "State Recreation Area",
+    "counties": [
+      "Crow Wing"
+    ],
+    "region": "Central",
+    "lat": 46.49167,
+    "lon": -93.97301,
+    "unitCount": 34,
+    "campgroundCount": 1,
+    "unitTypes": [
+      {
+        "name": "Campsite",
+        "count": 33
+      },
+      {
+        "name": "Group Area - Basic-A",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "des-moines-river-state-water-trail",
+    "name": "Des Moines River State Water Trail",
+    "parkType": "State Water Trail",
+    "counties": [
+      "Cottonwood",
+      "Jackson"
+    ],
+    "region": "Southern",
+    "lat": 43.80165,
+    "lon": -95.09101,
+    "unitCount": 4,
+    "campgroundCount": 0,
+    "unitTypes": [
+      {
+        "name": "Campsite",
+        "count": 4
+      }
+    ]
+  },
+  {
+    "id": "father-hennepin-state-park",
+    "name": "Father Hennepin State Park",
+    "parkType": "State Park",
+    "counties": [
+      "Mille Lacs"
+    ],
+    "region": "Central",
+    "lat": 46.1478,
+    "lon": -93.488,
+    "unitCount": 108,
+    "campgroundCount": 2,
+    "unitTypes": [
+      {
+        "name": "Campsite",
+        "count": 102
+      },
+      {
+        "name": "Group Area - Basic-A",
+        "count": 6
+      }
+    ]
+  },
+  {
+    "id": "finland-state-forest",
+    "name": "Finland State Forest",
+    "parkType": "State Forest",
+    "counties": [
+      "Lake"
+    ],
+    "region": "Minnesota",
+    "lat": 47.4128,
+    "lon": -91.23962,
+    "unitCount": 70,
+    "campgroundCount": 2,
+    "unitTypes": [
+      {
+        "name": "Campsite",
+        "count": 70
+      }
+    ]
+  },
+  {
+    "id": "flandrau-state-park",
+    "name": "Flandrau State Park",
+    "parkType": "State Park",
+    "counties": [
+      "Brown"
+    ],
+    "region": "Southern",
+    "lat": 44.2948,
+    "lon": -94.47088,
+    "unitCount": 87,
+    "campgroundCount": 2,
+    "unitTypes": [
+      {
+        "name": "Campsite",
+        "count": 87
+      }
+    ]
+  },
+  {
+    "id": "forestville-mystery-cave-state-park",
+    "name": "Forestville Mystery Cave State Park",
+    "parkType": "State Park",
+    "counties": [
+      "Fillmore"
+    ],
+    "region": "Southern",
+    "lat": 43.63367,
+    "lon": -92.22007,
+    "unitCount": 130,
+    "campgroundCount": 2,
+    "unitTypes": [
+      {
+        "name": "Campsite",
+        "count": 128
+      },
+      {
+        "name": "Group Area - Basic-A",
+        "count": 1
+      },
+      {
+        "name": "Group Area - Basic-B",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "fort-ridgely-state-park",
+    "name": "Fort Ridgely State Park",
+    "parkType": "State Park",
+    "counties": [
+      "Nicollet",
+      "Renville"
+    ],
+    "region": "Southern",
+    "lat": 44.45503,
+    "lon": -94.72694,
+    "unitCount": 52,
+    "campgroundCount": 2,
+    "unitTypes": [
+      {
+        "name": "Campsite",
+        "count": 52
+      }
+    ]
+  },
+  {
+    "id": "franz-jevne-state-park",
+    "name": "Franz Jevne State Park",
+    "parkType": "State Park",
+    "counties": [
+      "Koochiching"
+    ],
+    "region": "Northeast",
+    "lat": 48.64354,
+    "lon": -94.06667,
+    "unitCount": 18,
+    "campgroundCount": 1,
+    "unitTypes": [
+      {
+        "name": "Campsite",
+        "count": 18
+      }
+    ]
+  },
+  {
+    "id": "frontenac-state-park",
+    "name": "Frontenac State Park",
+    "parkType": "State Park",
+    "counties": [
+      "Goodhue"
+    ],
+    "region": "Southern",
+    "lat": 44.53907,
+    "lon": -92.35054,
+    "unitCount": 67,
+    "campgroundCount": 2,
+    "unitTypes": [
+      {
+        "name": "Campsite",
+        "count": 66
+      },
+      {
+        "name": "Group Area - Basic-A",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "general-c-c-andrews-state-forest",
+    "name": "General C. C. Andrews State Forest",
+    "parkType": "State Forest",
+    "counties": [
+      "Pine"
+    ],
+    "region": "Minnesota",
+    "lat": 46.32799,
+    "lon": -92.82815,
+    "unitCount": 39,
+    "campgroundCount": 1,
+    "unitTypes": [
+      {
+        "name": "Campsite",
+        "count": 38
+      },
+      {
+        "name": "Group Camp",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "george-h-crosby-manitou-state-park",
+    "name": "George H. Crosby Manitou State Park",
+    "parkType": "State Park",
+    "counties": [
+      "Lake"
+    ],
+    "region": "Northeast",
+    "lat": 47.47384,
+    "lon": -91.09702,
+    "unitCount": 21,
+    "campgroundCount": 0,
+    "unitTypes": [
+      {
+        "name": "Campsite",
+        "count": 21
+      }
+    ]
+  },
+  {
+    "id": "george-washington-state-forest",
+    "name": "George Washington State Forest",
+    "parkType": "State Forest",
+    "counties": [
+      "Itasca"
+    ],
+    "region": "Minnesota",
+    "lat": 47.72156,
+    "lon": -93.26626,
+    "unitCount": 134,
+    "campgroundCount": 8,
+    "unitTypes": [
+      {
+        "name": "Campsite",
+        "count": 134
+      }
+    ]
+  },
+  {
+    "id": "glacial-lakes-state-park",
+    "name": "Glacial Lakes State Park",
+    "parkType": "State Park",
+    "counties": [
+      "Pope"
+    ],
+    "region": "Central",
+    "lat": 45.54288,
+    "lon": -95.52097,
+    "unitCount": 50,
+    "campgroundCount": 3,
+    "unitTypes": [
+      {
+        "name": "Campsite",
+        "count": 49
+      },
+      {
+        "name": "Group Area - Basic-A",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "glendalough-state-park",
+    "name": "Glendalough State Park",
+    "parkType": "State Park",
+    "counties": [
+      "Otter Tail"
+    ],
+    "region": "Central",
+    "lat": 46.32661,
+    "lon": -95.66836,
+    "unitCount": 27,
+    "campgroundCount": 1,
+    "unitTypes": [
+      {
+        "name": "Campsite",
+        "count": 26
+      },
+      {
+        "name": "Group Area - Basic-A",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "gooseberry-falls",
+    "name": "Gooseberry Falls State Park",
+    "parkType": "State Park",
+    "counties": [
+      "Lake"
+    ],
+    "region": "Northeast",
+    "lat": 47.13969,
+    "lon": -91.46051,
+    "unitCount": 74,
+    "campgroundCount": 1,
+    "unitTypes": [
+      {
+        "name": "Campsite",
+        "count": 71
+      },
+      {
+        "name": "Group Area - Basic-A",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "id": "grand-portage-state-forest",
+    "name": "Grand Portage State Forest",
+    "parkType": "State Forest",
+    "counties": [
+      "Cook"
+    ],
+    "region": "Minnesota",
+    "lat": 48.05375,
+    "lon": -90.05595,
+    "unitCount": 9,
+    "campgroundCount": 2,
+    "unitTypes": [
+      {
+        "name": "Campsite",
+        "count": 9
+      }
+    ]
+  },
+  {
+    "id": "great-river-bluffs-state-park",
+    "name": "Great River Bluffs State Park",
+    "parkType": "State Park",
+    "counties": [
+      "Winona"
+    ],
+    "region": "Southern",
+    "lat": 43.93867,
+    "lon": -91.38551,
+    "unitCount": 42,
+    "campgroundCount": 2,
+    "unitTypes": [
+      {
+        "name": "Campsite",
+        "count": 42
+      }
+    ]
+  },
+  {
+    "id": "hayes-lake-state-park",
+    "name": "Hayes Lake State Park",
+    "parkType": "State Park",
+    "counties": [
+      "Roseau"
+    ],
+    "region": "Northwest",
+    "lat": 48.63317,
+    "lon": -95.53557,
+    "unitCount": 37,
+    "campgroundCount": 1,
+    "unitTypes": [
+      {
+        "name": "Campsite",
+        "count": 37
+      }
+    ]
+  },
+  {
+    "id": "huntersville-state-forest",
+    "name": "Huntersville State Forest",
+    "parkType": "State Forest",
+    "counties": [
+      "Wadena"
+    ],
+    "region": "Minnesota",
+    "lat": 46.73843,
+    "lon": -94.92898,
+    "unitCount": 24,
+    "campgroundCount": 1,
+    "unitTypes": [
+      {
+        "name": "Campsite",
+        "count": 24
+      }
+    ]
+  },
+  {
+    "id": "interstate",
+    "name": "Interstate State Park",
+    "parkType": "State Park",
+    "counties": [
+      "Chisago"
+    ],
+    "region": "Metro",
+    "lat": 45.39359,
+    "lon": -92.66674,
+    "unitCount": 41,
+    "campgroundCount": 1,
+    "unitTypes": [
+      {
+        "name": "Campsite",
+        "count": 37
+      },
+      {
+        "name": "Group Area - Basic-A",
+        "count": 4
+      }
+    ]
+  },
+  {
+    "id": "itasca",
+    "name": "Itasca State Park",
+    "parkType": "State Park",
+    "counties": [
+      "Becker",
+      "Clearwater"
+    ],
+    "region": "Northwest",
+    "lat": 47.23302,
+    "lon": -95.1904,
+    "unitCount": 246,
+    "campgroundCount": 2,
+    "unitTypes": [
+      {
+        "name": "Campsite",
+        "count": 245
+      },
+      {
+        "name": "Group Area - Basic-A",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "jay-cooke-state-park",
+    "name": "Jay Cooke State Park",
+    "parkType": "State Park",
+    "counties": [
+      "Carlton"
+    ],
+    "region": "Northeast",
+    "lat": 46.65763,
+    "lon": -92.372,
+    "unitCount": 88,
+    "campgroundCount": 1,
+    "unitTypes": [
+      {
+        "name": "Campsite",
+        "count": 86
+      },
+      {
+        "name": "Group Area - Basic-A",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "id": "judge-c-r-magney-state-park",
+    "name": "Judge C.R. Magney State Park",
+    "parkType": "State Park",
+    "counties": [
+      "Cook"
+    ],
+    "region": "Northeast",
+    "lat": 47.81873,
+    "lon": -90.05486,
+    "unitCount": 27,
+    "campgroundCount": 1,
+    "unitTypes": [
+      {
+        "name": "Campsite",
+        "count": 27
+      }
+    ]
+  },
+  {
+    "id": "kabetogama-state-forest",
+    "name": "Kabetogama State Forest",
+    "parkType": "State Forest",
+    "counties": [
+      "St. Louis"
+    ],
+    "region": "Minnesota",
+    "lat": 48.48171,
+    "lon": -93.06461,
+    "unitCount": 83,
+    "campgroundCount": 2,
+    "unitTypes": [
+      {
+        "name": "Campsite",
+        "count": 83
+      }
+    ]
+  },
+  {
+    "id": "kettle-river-state-water-trail",
+    "name": "Kettle River State Water Trail",
+    "parkType": "State Water Trail",
+    "counties": [
+      "Pine"
+    ],
+    "region": "Northeast",
+    "lat": 46.37729,
+    "lon": -92.8765,
+    "unitCount": 3,
+    "campgroundCount": 0,
+    "unitTypes": [
+      {
+        "name": "Campsite",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "id": "kilen-woods-state-park",
+    "name": "Kilen Woods State Park",
+    "parkType": "State Park",
+    "counties": [
+      "Jackson"
+    ],
+    "region": "Southern",
+    "lat": 43.72881,
+    "lon": -95.06519,
+    "unitCount": 36,
+    "campgroundCount": 1,
+    "unitTypes": [
+      {
+        "name": "Campsite",
+        "count": 36
+      }
+    ]
+  },
+  {
+    "id": "la-salle-lake-state-recreation-area",
+    "name": "La Salle Lake State Recreation Area",
+    "parkType": "State Recreation Area",
+    "counties": [
+      "Hubbard"
+    ],
+    "region": "Northwest",
+    "lat": 47.34337,
+    "lon": -95.16086,
+    "unitCount": 39,
+    "campgroundCount": 1,
+    "unitTypes": [
+      {
+        "name": "Campsite",
+        "count": 39
+      }
+    ]
+  },
+  {
+    "id": "lac-qui-parle-state-park",
+    "name": "Lac Qui Parle State Park",
+    "parkType": "State Park",
+    "counties": [
+      "Chippewa",
+      "Lac Qui Parle"
+    ],
+    "region": "Southern",
+    "lat": 45.04583,
+    "lon": -95.88339,
+    "unitCount": 49,
+    "campgroundCount": 2,
+    "unitTypes": [
+      {
+        "name": "Campsite",
+        "count": 47
+      },
+      {
+        "name": "Group Area - Basic-A",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "id": "lake-bemidji-state-park",
+    "name": "Lake Bemidji State Park",
+    "parkType": "State Park",
+    "counties": [
+      "Beltrami"
+    ],
+    "region": "Northwest",
+    "lat": 47.53636,
+    "lon": -94.82495,
+    "unitCount": 97,
+    "campgroundCount": 1,
+    "unitTypes": [
+      {
+        "name": "Campsite",
+        "count": 95
+      },
+      {
+        "name": "Group Area - Basic-A",
+        "count": 1
+      },
+      {
+        "name": "Group Area - Premium",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "lake-bronson-state-park",
+    "name": "Lake Bronson State Park",
+    "parkType": "State Park",
+    "counties": [
+      "Kittson"
+    ],
+    "region": "Northwest",
+    "lat": 48.7252,
+    "lon": -96.60461,
+    "unitCount": 162,
+    "campgroundCount": 3,
+    "unitTypes": [
+      {
+        "name": "Campsite",
+        "count": 161
+      },
+      {
+        "name": "Group Area - Basic-A",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "lake-carlos-state-park",
+    "name": "Lake Carlos State Park",
+    "parkType": "State Park",
+    "counties": [
+      "Douglas"
+    ],
+    "region": "Central",
+    "lat": 45.99809,
+    "lon": -95.33785,
+    "unitCount": 130,
+    "campgroundCount": 3,
+    "unitTypes": [
+      {
+        "name": "Campsite",
+        "count": 128
+      },
+      {
+        "name": "Group Area - Basic-A",
+        "count": 1
+      },
+      {
+        "name": "Group Area - Basic-B",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "lake-louise-state-park",
+    "name": "Lake Louise State Park",
+    "parkType": "State Park",
+    "counties": [
+      "Mower"
+    ],
+    "region": "Southern",
+    "lat": 43.52865,
+    "lon": -92.52326,
+    "unitCount": 28,
+    "campgroundCount": 2,
+    "unitTypes": [
+      {
+        "name": "Campsite",
+        "count": 26
+      },
+      {
+        "name": "Group Area - Basic-B",
+        "count": 1
+      },
+      {
+        "name": "Group Area - Basic-A",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "lake-maria-state-park",
+    "name": "Lake Maria State Park",
+    "parkType": "State Park",
+    "counties": [
+      "Wright"
+    ],
+    "region": "Metro",
+    "lat": 45.31332,
+    "lon": -93.94786,
+    "unitCount": 19,
+    "campgroundCount": 0,
+    "unitTypes": [
+      {
+        "name": "Campsite",
+        "count": 17
+      },
+      {
+        "name": "Group Area - Basic-A",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "id": "lake-shetek-state-park",
+    "name": "Lake Shetek State Park",
+    "parkType": "State Park",
+    "counties": [
+      "Murray"
+    ],
+    "region": "Southern",
+    "lat": 44.10444,
+    "lon": -95.69759,
+    "unitCount": 90,
+    "campgroundCount": 3,
+    "unitTypes": [
+      {
+        "name": "Campsite",
+        "count": 89
+      },
+      {
+        "name": "Group Area - Basic-A",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "lake-superior-state-water-trail",
+    "name": "Lake Superior State Water Trail",
+    "parkType": "State Water Trail",
+    "counties": [
+      "Cook",
+      "Lake"
+    ],
+    "region": "Northeast",
+    "lat": 47.56844,
+    "lon": -90.83621,
+    "unitCount": 18,
+    "campgroundCount": 0,
+    "unitTypes": [
+      {
+        "name": "Campsite",
+        "count": 18
+      }
+    ]
+  },
+  {
+    "id": "lake-vermilion-soudan-underground-mine-state-park",
+    "name": "Lake Vermilion-Soudan Underground Mine State Park",
+    "parkType": "State Park",
+    "counties": [
+      "St. Louis"
+    ],
+    "region": "Northeast",
+    "lat": 47.844,
+    "lon": -92.19292,
+    "unitCount": 37,
+    "campgroundCount": 1,
+    "unitTypes": [
+      {
+        "name": "Campsite",
+        "count": 34
+      },
+      {
+        "name": "Group Camp",
+        "count": 1
+      },
+      {
+        "name": "Group Area - Basic-A",
+        "count": 1
+      },
+      {
+        "name": "Group Area - Premium",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "land-olakes-state-forest",
+    "name": "Land O'Lakes State Forest",
+    "parkType": "State Forest",
+    "counties": [
+      "Cass"
+    ],
+    "region": "Minnesota",
+    "lat": 46.84981,
+    "lon": -93.97902,
+    "unitCount": 31,
+    "campgroundCount": 1,
+    "unitTypes": [
+      {
+        "name": "Campsite",
+        "count": 31
+      }
+    ]
+  },
+  {
+    "id": "little-fork-river-state-water-trail",
+    "name": "Little Fork River State Water Trail",
+    "parkType": "State Water Trail",
+    "counties": [
+      "Koochiching",
+      "St. Louis"
+    ],
+    "region": "Northeast",
+    "lat": 47.92571,
+    "lon": -93.06235,
+    "unitCount": 2,
+    "campgroundCount": 0,
+    "unitTypes": [
+      {
+        "name": "Campsite",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "id": "maplewood-state-park",
+    "name": "Maplewood State Park",
+    "parkType": "State Park",
+    "counties": [
+      "Otter Tail"
+    ],
+    "region": "Central",
+    "lat": 46.52588,
+    "lon": -95.94228,
+    "unitCount": 98,
+    "campgroundCount": 3,
+    "unitTypes": [
+      {
+        "name": "Campsite",
+        "count": 97
+      },
+      {
+        "name": "Group Area - Basic-A",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "mccarthy-beach-state-park",
+    "name": "McCarthy Beach State Park",
+    "parkType": "State Park",
+    "counties": [
+      "Itasca",
+      "St. Louis"
+    ],
+    "region": "Northeast",
+    "lat": 47.67427,
+    "lon": -93.02855,
+    "unitCount": 89,
+    "campgroundCount": 2,
+    "unitTypes": [
+      {
+        "name": "Campsite",
+        "count": 88
+      },
+      {
+        "name": "Group Area - Basic-A",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "mille-lacs-kathio-state-park",
+    "name": "Mille Lacs Kathio State Park",
+    "parkType": "State Park",
+    "counties": [
+      "Mille Lacs"
+    ],
+    "region": "Central",
+    "lat": 46.12872,
+    "lon": -93.76973,
+    "unitCount": 85,
+    "campgroundCount": 3,
+    "unitTypes": [
+      {
+        "name": "Campsite",
+        "count": 83
+      },
+      {
+        "name": "Group Area - Basic-A",
+        "count": 1
+      },
+      {
+        "name": "Group Area - Basic-B",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "minneopa-state-park",
+    "name": "Minneopa State Park",
+    "parkType": "State Park",
+    "counties": [
+      "Blue Earth"
+    ],
+    "region": "Southern",
+    "lat": 44.15989,
+    "lon": -94.08702,
+    "unitCount": 63,
+    "campgroundCount": 1,
+    "unitTypes": [
+      {
+        "name": "Campsite",
+        "count": 59
+      },
+      {
+        "name": "Group Area - Basic-A",
+        "count": 4
+      }
+    ]
+  },
+  {
+    "id": "minnesota-river-state-water-trail",
+    "name": "Minnesota River State Water Trail",
+    "parkType": "State Water Trail",
+    "counties": [
+      "Chippewa",
+      "Nicollet",
+      "Redwood",
+      "Renville",
+      "Sibley",
+      "Yellow Medicine"
+    ],
+    "region": "Southern",
+    "lat": 44.64646,
+    "lon": -95.21353,
+    "unitCount": 12,
+    "campgroundCount": 0,
+    "unitTypes": [
+      {
+        "name": "Campsite",
+        "count": 12
+      }
+    ]
+  },
+  {
+    "id": "minnesota-valley-state-recreation-area",
+    "name": "Minnesota Valley State Recreation Area",
+    "parkType": "State Recreation Area",
+    "counties": [
+      "Scott"
+    ],
+    "region": "Metro",
+    "lat": 44.65175,
+    "lon": -93.71707,
+    "unitCount": 6,
+    "campgroundCount": 1,
+    "unitTypes": [
+      {
+        "name": "Campsite",
+        "count": 6
+      }
+    ]
+  },
+  {
+    "id": "mississippi-river-state-water-trail",
+    "name": "Mississippi River State Water Trail",
+    "parkType": "State Water Trail",
+    "counties": [
+      "Aitkin",
+      "Beltrami",
+      "Benton",
+      "Cass",
+      "Clearwater",
+      "Crow Wing",
+      "Hubbard",
+      "Itasca",
+      "Morrison",
+      "Sherburne",
+      "Stearns",
+      "Wright"
+    ],
+    "region": "Metro",
+    "lat": 47.18716,
+    "lon": -94.21683,
+    "unitCount": 39,
+    "campgroundCount": 0,
+    "unitTypes": [
+      {
+        "name": "Campsite",
+        "count": 39
+      }
+    ]
+  },
+  {
+    "id": "monson-lake-state-park",
+    "name": "Monson Lake State Park",
+    "parkType": "State Park",
+    "counties": [
+      "Swift"
+    ],
+    "region": "Southern",
+    "lat": 45.32043,
+    "lon": -95.27667,
+    "unitCount": 20,
+    "campgroundCount": 1,
+    "unitTypes": [
+      {
+        "name": "Campsite",
+        "count": 20
+      }
+    ]
+  },
+  {
+    "id": "moose-lake-state-park",
+    "name": "Moose Lake State Park",
+    "parkType": "State Park",
+    "counties": [
+      "Carlton"
+    ],
+    "region": "Northeast",
+    "lat": 46.43129,
+    "lon": -92.73161,
+    "unitCount": 36,
+    "campgroundCount": 1,
+    "unitTypes": [
+      {
+        "name": "Campsite",
+        "count": 35
+      },
+      {
+        "name": "Group Area - Basic-A",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "myre-big-island-state-park",
+    "name": "Myre-Big Island State Park",
+    "parkType": "State Park",
+    "counties": [
+      "Freeborn"
+    ],
+    "region": "Southern",
+    "lat": 43.63426,
+    "lon": -93.30058,
+    "unitCount": 98,
+    "campgroundCount": 2,
+    "unitTypes": [
+      {
+        "name": "Campsite",
+        "count": 96
+      },
+      {
+        "name": "Wall Tent",
+        "count": 1
+      },
+      {
+        "name": "Group Area - Basic-A",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "nemadji-state-forest",
+    "name": "Nemadji State Forest",
+    "parkType": "State Forest",
+    "counties": [
+      "Pine"
+    ],
+    "region": "Minnesota",
+    "lat": 46.4056,
+    "lon": -92.44036,
+    "unitCount": 18,
+    "campgroundCount": 1,
+    "unitTypes": [
+      {
+        "name": "Campsite",
+        "count": 18
+      }
+    ]
+  },
+  {
+    "id": "nerstrand-big-woods-state-park",
+    "name": "Nerstrand Big Woods State Park",
+    "parkType": "State Park",
+    "counties": [
+      "Rice"
+    ],
+    "region": "Southern",
+    "lat": 44.34365,
+    "lon": -93.10311,
+    "unitCount": 55,
+    "campgroundCount": 1,
+    "unitTypes": [
+      {
+        "name": "Campsite",
+        "count": 55
+      }
+    ]
+  },
+  {
+    "id": "old-mill-state-park",
+    "name": "Old Mill State Park",
+    "parkType": "State Park",
+    "counties": [
+      "Marshall"
+    ],
+    "region": "Northwest",
+    "lat": 48.36512,
+    "lon": -96.56887,
+    "unitCount": 25,
+    "campgroundCount": 1,
+    "unitTypes": [
+      {
+        "name": "Campsite",
+        "count": 25
+      }
+    ]
+  },
+  {
+    "id": "paul-bunyan-state-forest",
+    "name": "Paul Bunyan State Forest",
+    "parkType": "State Forest",
+    "counties": [
+      "Hubbard"
+    ],
+    "region": "Minnesota",
+    "lat": 47.06578,
+    "lon": -94.93722,
+    "unitCount": 38,
+    "campgroundCount": 1,
+    "unitTypes": [
+      {
+        "name": "Campsite",
+        "count": 38
+      }
+    ]
+  },
+  {
+    "id": "pillsbury-state-forest",
+    "name": "Pillsbury State Forest",
+    "parkType": "State Forest",
+    "counties": [
+      "Cass"
+    ],
+    "region": "Minnesota",
+    "lat": 46.42938,
+    "lon": -94.48201,
+    "unitCount": 44,
+    "campgroundCount": 1,
+    "unitTypes": [
+      {
+        "name": "Campsite",
+        "count": 44
+      }
+    ]
+  },
+  {
+    "id": "pine-river-state-water-trail",
+    "name": "Pine River State Water Trail",
+    "parkType": "State Water Trail",
+    "counties": [
+      "Cass",
+      "Crow Wing"
+    ],
+    "region": "Central",
+    "lat": 46.65644,
+    "lon": -94.20527,
+    "unitCount": 4,
+    "campgroundCount": 0,
+    "unitTypes": [
+      {
+        "name": "Campsite",
+        "count": 4
+      }
+    ]
+  },
+  {
+    "id": "red-lake-river-state-water-trail",
+    "name": "Red Lake River State Water Trail",
+    "parkType": "State Water Trail",
+    "counties": [
+      "Polk"
+    ],
+    "region": "Northwest",
+    "lat": 47.77351,
+    "lon": -96.6024,
+    "unitCount": 1,
+    "campgroundCount": 0,
+    "unitTypes": [
+      {
+        "name": "Campsite",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "red-river-of-the-north-state-water-trail",
+    "name": "Red River of the North State Water Trail",
+    "parkType": "State Water Trail",
+    "counties": [
+      "Marshall",
+      "Norman"
+    ],
+    "region": "Northwest",
+    "lat": 48.19452,
+    "lon": -97.13938,
+    "unitCount": 5,
+    "campgroundCount": 0,
+    "unitTypes": [
+      {
+        "name": "Campsite",
+        "count": 5
+      }
+    ]
+  },
+  {
+    "id": "red-river-state-recreation-area",
+    "name": "Red River State Recreation Area",
+    "parkType": "State Recreation Area",
+    "counties": [
+      "Polk"
+    ],
+    "region": "Northwest",
+    "lat": 47.93153,
+    "lon": -97.03122,
+    "unitCount": 114,
+    "campgroundCount": 1,
+    "unitTypes": [
+      {
+        "name": "Campsite",
+        "count": 113
+      },
+      {
+        "name": "Group Area - Basic-A",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "rice-lake-state-park",
+    "name": "Rice Lake State Park",
+    "parkType": "State Park",
+    "counties": [
+      "Steele"
+    ],
+    "region": "Southern",
+    "lat": 44.08852,
+    "lon": -93.0592,
+    "unitCount": 55,
+    "campgroundCount": 1,
+    "unitTypes": [
+      {
+        "name": "Campsite",
+        "count": 54
+      },
+      {
+        "name": "Group Area - Basic-A",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "richard-j-dorer-memorial-hardwood-state-forest",
+    "name": "Richard J. Dorer Memorial Hardwood State Forest",
+    "parkType": "State Forest",
+    "counties": [
+      "Fillmore",
+      "Houston",
+      "Wabasha"
+    ],
+    "region": "Minnesota",
+    "lat": 44.31565,
+    "lon": -92.14351,
+    "unitCount": 41,
+    "campgroundCount": 4,
+    "unitTypes": [
+      {
+        "name": "Campsite",
+        "count": 41
+      }
+    ]
+  },
+  {
+    "id": "root-river-state-water-trail",
+    "name": "Root River State Water Trail",
+    "parkType": "State Water Trail",
+    "counties": [
+      "Fillmore",
+      "Houston"
+    ],
+    "region": "Southern",
+    "lat": 43.77025,
+    "lon": -92.00029,
+    "unitCount": 8,
+    "campgroundCount": 0,
+    "unitTypes": [
+      {
+        "name": "Campsite",
+        "count": 8
+      }
+    ]
+  },
+  {
+    "id": "rum-river-state-water-trail",
+    "name": "Rum River State Water Trail",
+    "parkType": "State Water Trail",
+    "counties": [
+      "Anoka",
+      "Isanti",
+      "Mille Lacs"
+    ],
+    "region": "Metro",
+    "lat": 45.57553,
+    "lon": -93.38675,
+    "unitCount": 10,
+    "campgroundCount": 0,
+    "unitTypes": [
+      {
+        "name": "Campsite",
+        "count": 10
+      }
+    ]
+  },
+  {
+    "id": "sakatah-lake-state-park",
+    "name": "Sakatah Lake State Park",
+    "parkType": "State Park",
+    "counties": [
+      "Le Sueur",
+      "Rice"
+    ],
+    "region": "Southern",
+    "lat": 44.22103,
+    "lon": -93.53529,
+    "unitCount": 68,
+    "campgroundCount": 2,
+    "unitTypes": [
+      {
+        "name": "Campsite",
+        "count": 65
+      },
+      {
+        "name": "Group Area - Basic-B",
+        "count": 1
+      },
+      {
+        "name": "Group Area - Basic-A",
+        "count": 1
+      },
+      {
+        "name": "Wall Tent",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "sand-dunes-state-forest",
+    "name": "Sand Dunes State Forest",
+    "parkType": "State Forest",
+    "counties": [
+      "Sherburne"
+    ],
+    "region": "Minnesota",
+    "lat": 45.42486,
+    "lon": -93.69657,
+    "unitCount": 58,
+    "campgroundCount": 2,
+    "unitTypes": [
+      {
+        "name": "Campsite",
+        "count": 56
+      },
+      {
+        "name": "Group Camp",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "id": "sauk-river-state-water-trail",
+    "name": "Sauk River State Water Trail",
+    "parkType": "State Water Trail",
+    "counties": [
+      "Stearns"
+    ],
+    "region": "Central",
+    "lat": 45.50329,
+    "lon": -94.55987,
+    "unitCount": 2,
+    "campgroundCount": 0,
+    "unitTypes": [
+      {
+        "name": "Campsite",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "id": "savanna-portage-state-park",
+    "name": "Savanna Portage State Park",
+    "parkType": "State Park",
+    "counties": [
+      "Aitkin"
+    ],
+    "region": "Central",
+    "lat": 46.82644,
+    "lon": -93.15095,
+    "unitCount": 69,
+    "campgroundCount": 1,
+    "unitTypes": [
+      {
+        "name": "Campsite",
+        "count": 68
+      },
+      {
+        "name": "Group Area - Basic-A",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "scenic-state-park",
+    "name": "Scenic State Park",
+    "parkType": "State Park",
+    "counties": [
+      "Itasca"
+    ],
+    "region": "Northeast",
+    "lat": 47.71488,
+    "lon": -93.5694,
+    "unitCount": 96,
+    "campgroundCount": 2,
+    "unitTypes": [
+      {
+        "name": "Campsite",
+        "count": 95
+      },
+      {
+        "name": "Group Area - Basic-A",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "schoolcraft-state-park",
+    "name": "Schoolcraft State Park",
+    "parkType": "State Park",
+    "counties": [
+      "Cass"
+    ],
+    "region": "Northwest",
+    "lat": 47.223,
+    "lon": -93.80241,
+    "unitCount": 29,
+    "campgroundCount": 1,
+    "unitTypes": [
+      {
+        "name": "Campsite",
+        "count": 28
+      },
+      {
+        "name": "Group Area - Basic-A",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "sibley-state-park",
+    "name": "Sibley State Park",
+    "parkType": "State Park",
+    "counties": [
+      "Kandiyohi"
+    ],
+    "region": "Central",
+    "lat": 45.31536,
+    "lon": -95.0367,
+    "unitCount": 142,
+    "campgroundCount": 3,
+    "unitTypes": [
+      {
+        "name": "Campsite",
+        "count": 139
+      },
+      {
+        "name": "Group Area - Basic-B",
+        "count": 2
+      },
+      {
+        "name": "Group Area - Basic-A",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "snake-river-state-water-trail",
+    "name": "Snake River State Water Trail",
+    "parkType": "State Water Trail",
+    "counties": [
+      "Aitkin",
+      "Kanabec",
+      "Pine"
+    ],
+    "region": "Northeast",
+    "lat": 45.96819,
+    "lon": -93.21503,
+    "unitCount": 6,
+    "campgroundCount": 0,
+    "unitTypes": [
+      {
+        "name": "Campsite",
+        "count": 6
+      }
+    ]
+  },
+  {
+    "id": "split-rock-creek-state-park",
+    "name": "Split Rock Creek State Park",
+    "parkType": "State Park",
+    "counties": [
+      "Pipestone"
+    ],
+    "region": "Southern",
+    "lat": 43.90174,
+    "lon": -96.36604,
+    "unitCount": 37,
+    "campgroundCount": 1,
+    "unitTypes": [
+      {
+        "name": "Campsite",
+        "count": 37
+      }
+    ]
+  },
+  {
+    "id": "split-rock-lighthouse-state-park",
+    "name": "Split Rock Lighthouse State Park",
+    "parkType": "State Park",
+    "counties": [
+      "Lake"
+    ],
+    "region": "Northeast",
+    "lat": 47.20729,
+    "lon": -91.37646,
+    "unitCount": 70,
+    "campgroundCount": 2,
+    "unitTypes": [
+      {
+        "name": "Campsite",
+        "count": 70
+      }
+    ]
+  },
+  {
+    "id": "st-croix-river-state-water-trail",
+    "name": "St. Croix River State Water Trail",
+    "parkType": "State Water Trail",
+    "counties": [
+      "Chisago",
+      "Pine",
+      "Washington"
+    ],
+    "region": "Metro",
+    "lat": 45.52441,
+    "lon": -92.71837,
+    "unitCount": 70,
+    "campgroundCount": 0,
+    "unitTypes": [
+      {
+        "name": "Campsite",
+        "count": 70
+      }
+    ]
+  },
+  {
+    "id": "st-croix-state-park",
+    "name": "St. Croix State Park",
+    "parkType": "State Park",
+    "counties": [
+      "Pine"
+    ],
+    "region": "Northeast",
+    "lat": 45.95062,
+    "lon": -92.57646,
+    "unitCount": 270,
+    "campgroundCount": 4,
+    "unitTypes": [
+      {
+        "name": "Campsite",
+        "count": 262
+      },
+      {
+        "name": "Group Area - Basic-A",
+        "count": 8
+      }
+    ]
+  },
+  {
+    "id": "st-louis-river-state-water-trail",
+    "name": "St. Louis River State Water Trail",
+    "parkType": "State Water Trail",
+    "counties": [
+      "Carlton",
+      "St. Louis"
+    ],
+    "region": "Northeast",
+    "lat": 46.87829,
+    "lon": -92.70151,
+    "unitCount": 11,
+    "campgroundCount": 0,
+    "unitTypes": [
+      {
+        "name": "Campsite",
+        "count": 11
+      }
+    ]
+  },
+  {
+    "id": "straight-river-state-water-trail",
+    "name": "Straight River State Water Trail",
+    "parkType": "State Water Trail",
+    "counties": [
+      "Rice"
+    ],
+    "region": "Minnesota",
+    "lat": 44.27535,
+    "lon": -93.26057,
+    "unitCount": 1,
+    "campgroundCount": 0,
+    "unitTypes": [
+      {
+        "name": "Campsite",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "temperance-river-state-park",
+    "name": "Temperance River State Park",
+    "parkType": "State Park",
+    "counties": [
+      "Cook"
+    ],
+    "region": "Northeast",
+    "lat": 47.55449,
+    "lon": -90.87183,
+    "unitCount": 58,
+    "campgroundCount": 2,
+    "unitTypes": [
+      {
+        "name": "Campsite",
+        "count": 58
+      }
+    ]
+  },
+  {
+    "id": "tettegouche-state-park",
+    "name": "Tettegouche State Park",
+    "parkType": "State Park",
+    "counties": [
+      "Lake"
+    ],
+    "region": "Northeast",
+    "lat": 47.34527,
+    "lon": -91.20796,
+    "unitCount": 50,
+    "campgroundCount": 2,
+    "unitTypes": [
+      {
+        "name": "Campsite",
+        "count": 48
+      },
+      {
+        "name": "Group Area - Basic-A",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "id": "two-inlets-state-forest",
+    "name": "Two Inlets State Forest",
+    "parkType": "State Forest",
+    "counties": [
+      "Becker"
+    ],
+    "region": "Minnesota",
+    "lat": 47.06026,
+    "lon": -95.18273,
+    "unitCount": 13,
+    "campgroundCount": 1,
+    "unitTypes": [
+      {
+        "name": "Campsite",
+        "count": 13
+      }
+    ]
+  },
+  {
+    "id": "vermilion-river-state-water-trail",
+    "name": "Vermilion River State Water Trail",
+    "parkType": "State Water Trail",
+    "counties": [
+      "St. Louis"
+    ],
+    "region": "Minnesota",
+    "lat": 48.07246,
+    "lon": -92.4859,
+    "unitCount": 9,
+    "campgroundCount": 0,
+    "unitTypes": [
+      {
+        "name": "Campsite",
+        "count": 9
+      }
+    ]
+  },
+  {
+    "id": "whitewater-state-park",
+    "name": "Whitewater State Park",
+    "parkType": "State Park",
+    "counties": [
+      "Winona"
+    ],
+    "region": "Southern",
+    "lat": 44.06072,
+    "lon": -92.0458,
+    "unitCount": 125,
+    "campgroundCount": 2,
+    "unitTypes": [
+      {
+        "name": "Campsite",
+        "count": 122
+      },
+      {
+        "name": "Group Area - Premium",
+        "count": 1
+      },
+      {
+        "name": "Group Area - Basic-A",
+        "count": 1
+      },
+      {
+        "name": "Group Area - Basic-B",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "wild-river-state-park",
+    "name": "Wild River State Park",
+    "parkType": "State Park",
+    "counties": [
+      "Chisago"
+    ],
+    "region": "Metro",
+    "lat": 45.54383,
+    "lon": -92.74189,
+    "unitCount": 132,
+    "campgroundCount": 2,
+    "unitTypes": [
+      {
+        "name": "Campsite",
+        "count": 123
+      },
+      {
+        "name": "Group Area - Basic-A",
+        "count": 9
+      }
+    ]
+  },
+  {
+    "id": "william-obrien-state-park",
+    "name": "William O'Brien State Park",
+    "parkType": "State Park",
+    "counties": [
+      "Washington"
+    ],
+    "region": "Metro",
+    "lat": 45.22239,
+    "lon": -92.77201,
+    "unitCount": 120,
+    "campgroundCount": 2,
+    "unitTypes": [
+      {
+        "name": "Campsite",
+        "count": 116
+      },
+      {
+        "name": "Group Area - Basic-B",
+        "count": 3
+      },
+      {
+        "name": "Group Area - Basic-A",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "zippel-bay-state-park",
+    "name": "Zippel Bay State Park",
+    "parkType": "State Park",
+    "counties": [
+      "Lake of the Woods"
+    ],
+    "region": "Northwest",
+    "lat": 48.85784,
+    "lon": -94.8388,
+    "unitCount": 58,
+    "campgroundCount": 3,
+    "unitTypes": [
+      {
+        "name": "Campsite",
+        "count": 57
+      },
+      {
+        "name": "Group Area - Basic-A",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "zumbro-river-state-water-trail",
+    "name": "Zumbro River State Water Trail",
+    "parkType": "State Water Trail",
+    "counties": [
+      "Wabasha"
+    ],
+    "region": "Southern",
+    "lat": 44.29798,
+    "lon": -92.22806,
+    "unitCount": 5,
+    "campgroundCount": 0,
+    "unitTypes": [
+      {
+        "name": "Campsite",
+        "count": 5
+      }
+    ]
+  }
+]
