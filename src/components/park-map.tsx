@@ -66,7 +66,6 @@ type UnitTuple = [
   string,
 ];
 type UnitsPayload = { fields: string[]; parks: Record<string, UnitTuple[]> };
-type TmbRoutes = { ways: [number, number][][]; variants: [number, number][][] };
 type StatesGeoJson = {
   features: { geometry: { coordinates: [number, number][][] } }[];
 };
@@ -76,7 +75,6 @@ export const UNIT_MIN_ZOOM = 12;
 const MN_CENTER: [number, number] = [46.4, -94.6];
 const MN_ZOOM = 6;
 const UNITS_URL = "/data/mn-park-units.json";
-const TMB_ROUTES_URL = "/data/tmb-routes.json";
 
 // Keeps auto-panned popups clear of the search overlay at the top of the map.
 const POPUP_OPTIONS = { autoPanPaddingTopLeft: [12, 72] as [number, number] };
@@ -556,9 +554,8 @@ export function ParkMap({
     let resizeObserver: ResizeObserver | null = null;
 
     async function initialize() {
-      const [L, tmbRoutes, states] = await Promise.all([
+      const [L, states] = await Promise.all([
         import("leaflet"),
-        fetchJson<TmbRoutes>(TMB_ROUTES_URL),
         fetchJson<StatesGeoJson>(STATES_URL),
       ]);
       if (cancelled || !container) return;
@@ -621,26 +618,6 @@ export function ParkMap({
       };
       lightTerrain.addTo(map);
 
-      const tmbMain = L.layerGroup(
-        (tmbRoutes?.ways ?? []).map((way) =>
-          L.polyline(way, {
-            color: "#f97316",
-            weight: 3,
-            opacity: 0.75,
-            interactive: false,
-          }),
-        ),
-      ).addTo(map);
-      const tmbVariants = L.layerGroup(
-        (tmbRoutes?.variants ?? []).map((way) =>
-          L.polyline(way, {
-            color: "#fdba74",
-            weight: 3,
-            opacity: 0.55,
-            interactive: false,
-          }),
-        ),
-      ).addTo(map);
       const waymarked = L.tileLayer(
         "https://tile.waymarkedtrails.org/hiking/{z}/{x}/{y}.png",
         {
@@ -648,7 +625,7 @@ export function ParkMap({
           opacity: 0.8,
           attribution: "Trails © waymarkedtrails.org",
         },
-      );
+      ).addTo(map);
       const parkLayer = L.layerGroup().addTo(map);
       const unitLayer = L.layerGroup().addTo(map);
       map.createPane(ROUTE_PANE).style.zIndex = "390";
@@ -656,8 +633,6 @@ export function ParkMap({
 
       L.control
         .layers(baseLayers, {
-          "TMB main route": tmbMain,
-          "TMB variants": tmbVariants,
           "Waymarked hiking trails": waymarked,
           "State parks": parkLayer,
           [`Campsite units (zoom ${UNIT_MIN_ZOOM}+)`]: unitLayer,
