@@ -64,6 +64,16 @@ Call:
 curl -X POST http://localhost:3000/api/seed -H "x-seed-secret: <SEED_SECRET>"
 ```
 
+## Seed dummy users for friend search
+
+To have searchable profiles without signing in with real accounts, run:
+
+```bash
+node --env-file=.env.local scripts/seed-dummy-users.mjs
+```
+
+This writes 8 `@example.com` profiles (e.g. "Maya Johnson", "Sam Carter") to the `users` collection. Search matches emails exactly and display names by prefix (for example, `sam` finds both "Sam Carter" and "Samantha Lee", but `carter` does not).
+
 ## Privacy and compliance
 
 - In-app privacy page: [/privacy](http://localhost:3000/privacy)
